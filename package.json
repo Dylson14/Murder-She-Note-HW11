@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Dylson14/Murder-She-Note-HW11/issues"
   },
-  "homepage": "https://github.com/Dylson14/Murder-She-Note-HW11#readme"
+  "homepage": "https://github.com/Dylson14/Murder-She-Note-HW11#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
 }
